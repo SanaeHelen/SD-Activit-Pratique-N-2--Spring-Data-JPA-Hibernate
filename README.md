@@ -135,7 +135,11 @@
      ![hospital9](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/d42cb02c-f207-4953-9540-63f15bcc85e8)
      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/9048fd61-7bb9-48f6-a367-c6ba0c905507)
 
+13.  Les entités user et role :
 
+      - l'entité user :
+          
+    
 
 
 
