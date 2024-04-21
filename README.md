@@ -1,5 +1,5 @@
 
-# SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1
+# SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate
 
 
 1. Installer IntelliJ Ultimate
