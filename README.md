@@ -3,7 +3,10 @@
 
 
 1. Installer IntelliJ Ultimate
-2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
+   
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/da3e3a60-e855-4c54-ac07-3266bd07a9ec)
+
+3. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
 
    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/31bda72a-9059-4ae4-b794-2286c367d628)
 
@@ -24,12 +27,6 @@
 
 8. Créer l'interface JPA Repository basée sur Spring data
    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/4eb458d2-4ba8-40e9-8fda-f1cd0d6e2b60)
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/351bb612-3786-422a-9971-5e2610657012)
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/12edeb8b-66db-44d0-83f1-febed4dcc996)
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/84287cbf-6ae3-4544-bdda-b1d47c2bedd9)
-
-
-
 
 10. Tester quelques opérations de gestion de patients :
     
@@ -74,6 +71,11 @@
     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/e2996d56-db3b-4a57-9bf1-7cba1b3fd6bc)
     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/83934ee2-1542-4294-9ef5-498de4bcc3ef)
 
+13. Créer l'interface JPA Repository basée sur Spring data
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/351bb612-3786-422a-9971-5e2610657012)
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/12edeb8b-66db-44d0-83f1-febed4dcc996)
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/84287cbf-6ae3-4544-bdda-b1d47c2bedd9)
+
 13. Les opérations de gestion de ces entités :
     - Ajouter des médecins
       
@@ -108,37 +110,103 @@
 
     - Ajouter des médecins
       
-     ![hospital5](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/a2edbcfb-3b80-4ad6-8a9a-22d2270100e3)
-     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/073d3bad-61c2-404f-a3fc-d49e34bbbf3a)
+      ![hospital5](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/a2edbcfb-3b80-4ad6-8a9a-22d2270100e3)
+      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/073d3bad-61c2-404f-a3fc-d49e34bbbf3a)
 
 
     - Créer un rendez-vous
 
-     ![hospital19](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/8d581b41-9b9a-4afa-a1c1-09a347fe9716)
-     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/68a86f59-5d92-417e-b74c-2a13ebf8f074)
+      ![hospital19](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/8d581b41-9b9a-4afa-a1c1-09a347fe9716)
+      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/68a86f59-5d92-417e-b74c-2a13ebf8f074)
 
     
     - Créer une consultation
    
-     ![hospital21](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/96e4dd92-c872-4834-9bb9-3db42eedf2e0)
-     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/65e387b7-8816-4902-999c-f2a96e4a2aa3)
+      ![hospital21](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/96e4dd92-c872-4834-9bb9-3db42eedf2e0)
+      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/65e387b7-8816-4902-999c-f2a96e4a2aa3)
 
 
     - Mettre à jour un patient
       
-     ![hospital7](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/6d9186a1-ec1c-491c-ab00-3a1f5eed8e36)
-     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/3de9d915-d5ea-4e0a-bffb-f5e3fd037c9d)
+      ![hospital7](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/6d9186a1-ec1c-491c-ab00-3a1f5eed8e36)
+      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/3de9d915-d5ea-4e0a-bffb-f5e3fd037c9d)
     
 
     - supprimer un patient
       
-     ![hospital9](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/d42cb02c-f207-4953-9540-63f15bcc85e8)
-     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/9048fd61-7bb9-48f6-a367-c6ba0c905507)
+      ![hospital9](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/d42cb02c-f207-4953-9540-63f15bcc85e8)
+      ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-HibernateP1/assets/136022070/9048fd61-7bb9-48f6-a367-c6ba0c905507)
 
 13.  Les entités user et role :
 
       - l'entité user :
+
+          ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/3b6dda8f-441f-4512-83d0-73e7733b552e)
+
+
+      - l'entité role :
+        
+          ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/9a99e039-ba99-4f70-b5f9-be7112434d14)
           
+        
+14. les interfaces JPA Repository de user et role:
+    
+    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/877292bb-c02c-476e-b9b5-10726905c191)
+    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/4b23f6ad-0415-4498-913c-f9d594b01284)
+
+6. Configurer l'unité de persistance dans le ficher application.properties
+   
+    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/30d680d7-a8ef-43b4-b3d9-c43e9df45bf1)
+    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/3c671a3c-6bd3-458c-a5d8-e5a0cfe7e82d)
+
+15. Tester quelques opérations de gestion de users et roles :
+    - Ajouter des users:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/69854360-6633-438d-806e-6f7e1cb48ff4)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/6e1e177d-7a86-46c0-9996-1ce7e0b309b9)
+
+ 
+    - Ajouter des rôles:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/b8b3f3d4-93c5-41fa-bbc1-1292706965b8)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/d9f2510d-2db7-46bf-8112-8de1f7a80cb0)
+
+
+    - Assigner des rôles aux utilisateurs:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/eb54636f-19bd-4cdc-af48-ebcf413488f8)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/8dfc4496-cc66-4c77-b365-94c0568734cb)
+
+
+    - Authentifier un utilisateur:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/66c4dc28-36da-47da-91e9-b3018a2994e0)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/9dd20977-e630-4946-b6ac-564e1ebfecbb)
+
+ 
+7. Migrer de H2 Database vers MySQL
+   
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/81f76f1a-96c3-4dcd-a505-f47fe42bbf70)
+
+   
+   - Ajouter des users:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/69854360-6633-438d-806e-6f7e1cb48ff4)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/a3d199b7-3089-476d-979f-f1976f2d4dab)
+
+ 
+    - Ajouter des rôles:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/b8b3f3d4-93c5-41fa-bbc1-1292706965b8)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/fb028dc6-569e-4eae-a83b-e389a91949dd)
+
+    - Assigner des rôles aux utilisateurs:
+      
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/eb54636f-19bd-4cdc-af48-ebcf413488f8)
+        ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-2--Spring-Data-JPA-Hibernate/assets/136022070/33664eee-9c7d-4635-a85d-469a5deb1f6b)
+
+  
+    
     
 
 
